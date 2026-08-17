@@ -40,5 +40,5 @@ Download the content of the branch and unzip it in the relevant folder.
 | [html-ss](https://github.com/dcr-unibe-ch/quarto/tree/html-ss) | html | HTML sample size calculation report template. |
 | [latex](https://github.com/dcr-unibe-ch/quarto/tree/latex) | PDF | LaTeX template for compiling reports via Sweave and LaTeX. |
 | [typst](https://github.com/dcr-unibe-ch/quarto/tree/typst) | PDF | Typst template for creating PDFs without using LaTeX. |
-| [typst](https://github.com/dcr-unibe-ch/quarto/tree/typst-letter) | PDF | Typst letter template for creating PDFs without using LaTeX !!! In prep !!! |
+| [typst-letter](https://github.com/dcr-unibe-ch/quarto/tree/typst-letter) | PDF | Typst letter template for creating PDFs without using LaTeX !!! In prep !!! |
 
